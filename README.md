@@ -2,7 +2,7 @@
 
 Tienda virtual de Arco Nova (Costa Rica): tenis, joyería, relojes, lentes, bolsos, termos, ropa, belleza, accesorios y más. Los pedidos se envían por WhatsApp; la página no cobra.
 
-**Sitio:** https://cbgrowth.github.io/Arco-Nova/ (se publica con GitHub Pages desde la rama `main`, carpeta raíz).
+**Sitio:** https://arconova.online (GitHub Pages desde la rama `main`, carpeta raíz; el dominio está en el archivo `CNAME`).
 
 ## Qué incluye
 
@@ -19,6 +19,7 @@ Tienda virtual de Arco Nova (Costa Rica): tenis, joyería, relojes, lentes, bols
 index.html   Página completa (HTML, CSS y JavaScript en un solo archivo)
 img/         Logo, fotos de productos y videos
 .nojekyll    Hace que GitHub Pages sirva los archivos tal cual
+CNAME        Dominio propio: arconova.online
 ```
 
 ## Cómo editar
