@@ -2,7 +2,7 @@
 
 Tienda virtual de Arco Nova (Costa Rica): tenis, joyería, relojes, lentes, bolsos, termos, ropa, belleza, accesorios y más. Los pedidos se envían por WhatsApp; la página no cobra.
 
-**Sitio:** https://cbgrowth.github.io/arco-nova/
+**Sitio:** https://cbgrowth.github.io/Arco-Nova/ (se publica con GitHub Pages desde la rama `main`, carpeta raíz).
 
 ## Qué incluye
 
